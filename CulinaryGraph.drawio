@@ -1,0 +1,1467 @@
+<mxfile host="app.diagrams.net" pages="8">
+  <diagram name="recipe" id="CUL-recipe-001">
+    <mxGraphModel dx="1288" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <!-- Row 1 -->
+        <mxCell id="R1" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=13;startSize=30;" value="Борщ" vertex="1">
+          <mxGeometry height="150" width="220" x="74" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R1-1" parent="R1" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 1" vertex="1">
+          <mxGeometry height="25" width="220" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R1-2" parent="R1" style="text;fontSize=12;align=left;spacingLeft=8;" value="cuisine = белорусская" vertex="1">
+          <mxGeometry height="25" width="220" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="R1-3" parent="R1" style="text;fontSize=12;align=left;spacingLeft=8;" value="difficulty = средняя" vertex="1">
+          <mxGeometry height="25" width="220" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R1-4" parent="R1" style="text;fontSize=12;align=left;spacingLeft=8;" value="cook_time = 90 мин,  servings = 6" vertex="1">
+          <mxGeometry height="25" width="220" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="R1-5" parent="R1" style="text;fontSize=12;align=left;spacingLeft=8;" value="calories = 280 / порция" vertex="1">
+          <mxGeometry height="25" width="220" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="R2" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=13;startSize=30;" value="Драники" vertex="1">
+          <mxGeometry height="150" width="220" x="334" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R2-1" parent="R2" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 2" vertex="1">
+          <mxGeometry height="25" width="220" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R2-2" parent="R2" style="text;fontSize=12;align=left;spacingLeft=8;" value="cuisine = белорусская" vertex="1">
+          <mxGeometry height="25" width="220" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="R2-3" parent="R2" style="text;fontSize=12;align=left;spacingLeft=8;" value="difficulty = лёгкая" vertex="1">
+          <mxGeometry height="25" width="220" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R2-4" parent="R2" style="text;fontSize=12;align=left;spacingLeft=8;" value="cook_time = 40 мин,  servings = 4" vertex="1">
+          <mxGeometry height="25" width="220" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="R2-5" parent="R2" style="text;fontSize=12;align=left;spacingLeft=8;" value="calories = 320 / порция" vertex="1">
+          <mxGeometry height="25" width="220" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="R3" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=13;startSize=30;" value="Пельмени" vertex="1">
+          <mxGeometry height="150" width="220" x="594" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R3-1" parent="R3" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 3" vertex="1">
+          <mxGeometry height="25" width="220" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R3-2" parent="R3" style="text;fontSize=12;align=left;spacingLeft=8;" value="cuisine = русская" vertex="1">
+          <mxGeometry height="25" width="220" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="R3-3" parent="R3" style="text;fontSize=12;align=left;spacingLeft=8;" value="difficulty = средняя" vertex="1">
+          <mxGeometry height="25" width="220" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R3-4" parent="R3" style="text;fontSize=12;align=left;spacingLeft=8;" value="cook_time = 80 мин,  servings = 4" vertex="1">
+          <mxGeometry height="25" width="220" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="R3-5" parent="R3" style="text;fontSize=12;align=left;spacingLeft=8;" value="calories = 350 / порция" vertex="1">
+          <mxGeometry height="25" width="220" y="125" as="geometry" />
+        </mxCell>
+        <!-- Row 2 -->
+        <mxCell id="R4" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=13;startSize=30;" value="Оливье" vertex="1">
+          <mxGeometry height="150" width="220" x="74" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="R4-1" parent="R4" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 4" vertex="1">
+          <mxGeometry height="25" width="220" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R4-2" parent="R4" style="text;fontSize=12;align=left;spacingLeft=8;" value="cuisine = русская" vertex="1">
+          <mxGeometry height="25" width="220" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="R4-3" parent="R4" style="text;fontSize=12;align=left;spacingLeft=8;" value="difficulty = лёгкая" vertex="1">
+          <mxGeometry height="25" width="220" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R4-4" parent="R4" style="text;fontSize=12;align=left;spacingLeft=8;" value="cook_time = 60 мин,  servings = 8" vertex="1">
+          <mxGeometry height="25" width="220" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="R4-5" parent="R4" style="text;fontSize=12;align=left;spacingLeft=8;" value="calories = 240 / порция" vertex="1">
+          <mxGeometry height="25" width="220" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="R5" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=13;startSize=30;" value="Холодник" vertex="1">
+          <mxGeometry height="150" width="220" x="334" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="R5-1" parent="R5" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 5" vertex="1">
+          <mxGeometry height="25" width="220" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R5-2" parent="R5" style="text;fontSize=12;align=left;spacingLeft=8;" value="cuisine = белорусская" vertex="1">
+          <mxGeometry height="25" width="220" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="R5-3" parent="R5" style="text;fontSize=12;align=left;spacingLeft=8;" value="difficulty = лёгкая" vertex="1">
+          <mxGeometry height="25" width="220" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R5-4" parent="R5" style="text;fontSize=12;align=left;spacingLeft=8;" value="cook_time = 30 мин,  servings = 4" vertex="1">
+          <mxGeometry height="25" width="220" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="R5-5" parent="R5" style="text;fontSize=12;align=left;spacingLeft=8;" value="calories = 120 / порция" vertex="1">
+          <mxGeometry height="25" width="220" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="R6" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=13;startSize=30;" value="Мачанка с блинами" vertex="1">
+          <mxGeometry height="150" width="220" x="594" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="R6-1" parent="R6" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 6" vertex="1">
+          <mxGeometry height="25" width="220" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R6-2" parent="R6" style="text;fontSize=12;align=left;spacingLeft=8;" value="cuisine = белорусская" vertex="1">
+          <mxGeometry height="25" width="220" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="R6-3" parent="R6" style="text;fontSize=12;align=left;spacingLeft=8;" value="difficulty = средняя" vertex="1">
+          <mxGeometry height="25" width="220" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R6-4" parent="R6" style="text;fontSize=12;align=left;spacingLeft=8;" value="cook_time = 100 мин,  servings = 4" vertex="1">
+          <mxGeometry height="25" width="220" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="R6-5" parent="R6" style="text;fontSize=12;align=left;spacingLeft=8;" value="calories = 510 / порция" vertex="1">
+          <mxGeometry height="25" width="220" y="125" as="geometry" />
+        </mxCell>
+        <!-- Row 3 -->
+        <mxCell id="R7" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=13;startSize=30;" value="Гуляш" vertex="1">
+          <mxGeometry height="150" width="220" x="74" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="R7-1" parent="R7" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 7" vertex="1">
+          <mxGeometry height="25" width="220" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R7-2" parent="R7" style="text;fontSize=12;align=left;spacingLeft=8;" value="cuisine = венгерская" vertex="1">
+          <mxGeometry height="25" width="220" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="R7-3" parent="R7" style="text;fontSize=12;align=left;spacingLeft=8;" value="difficulty = средняя" vertex="1">
+          <mxGeometry height="25" width="220" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R7-4" parent="R7" style="text;fontSize=12;align=left;spacingLeft=8;" value="cook_time = 110 мин,  servings = 5" vertex="1">
+          <mxGeometry height="25" width="220" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="R7-5" parent="R7" style="text;fontSize=12;align=left;spacingLeft=8;" value="calories = 380 / порция" vertex="1">
+          <mxGeometry height="25" width="220" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="R8" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=13;startSize=30;" value="Омлет французский" vertex="1">
+          <mxGeometry height="150" width="220" x="334" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="R8-1" parent="R8" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 8" vertex="1">
+          <mxGeometry height="25" width="220" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R8-2" parent="R8" style="text;fontSize=12;align=left;spacingLeft=8;" value="cuisine = французская" vertex="1">
+          <mxGeometry height="25" width="220" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="R8-3" parent="R8" style="text;fontSize=12;align=left;spacingLeft=8;" value="difficulty = лёгкая" vertex="1">
+          <mxGeometry height="25" width="220" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R8-4" parent="R8" style="text;fontSize=12;align=left;spacingLeft=8;" value="cook_time = 15 мин,  servings = 2" vertex="1">
+          <mxGeometry height="25" width="220" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="R8-5" parent="R8" style="text;fontSize=12;align=left;spacingLeft=8;" value="calories = 210 / порция" vertex="1">
+          <mxGeometry height="25" width="220" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="R9" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=13;startSize=30;" value="Оладьи" vertex="1">
+          <mxGeometry height="150" width="220" x="594" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="R9-1" parent="R9" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 9" vertex="1">
+          <mxGeometry height="25" width="220" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R9-2" parent="R9" style="text;fontSize=12;align=left;spacingLeft=8;" value="cuisine = русская" vertex="1">
+          <mxGeometry height="25" width="220" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="R9-3" parent="R9" style="text;fontSize=12;align=left;spacingLeft=8;" value="difficulty = лёгкая" vertex="1">
+          <mxGeometry height="25" width="220" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R9-4" parent="R9" style="text;fontSize=12;align=left;spacingLeft=8;" value="cook_time = 30 мин,  servings = 4" vertex="1">
+          <mxGeometry height="25" width="220" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="R9-5" parent="R9" style="text;fontSize=12;align=left;spacingLeft=8;" value="calories = 290 / порция" vertex="1">
+          <mxGeometry height="25" width="220" y="125" as="geometry" />
+        </mxCell>
+        <!-- Row 4 -->
+        <mxCell id="R10" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=13;startSize=30;" value="Крем-брюле" vertex="1">
+          <mxGeometry height="150" width="220" x="74" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="R10-1" parent="R10" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 10" vertex="1">
+          <mxGeometry height="25" width="220" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R10-2" parent="R10" style="text;fontSize=12;align=left;spacingLeft=8;" value="cuisine = французская" vertex="1">
+          <mxGeometry height="25" width="220" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="R10-3" parent="R10" style="text;fontSize=12;align=left;spacingLeft=8;" value="difficulty = сложная" vertex="1">
+          <mxGeometry height="25" width="220" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R10-4" parent="R10" style="text;fontSize=12;align=left;spacingLeft=8;" value="cook_time = 90 мин,  servings = 4" vertex="1">
+          <mxGeometry height="25" width="220" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="R10-5" parent="R10" style="text;fontSize=12;align=left;spacingLeft=8;" value="calories = 430 / порция" vertex="1">
+          <mxGeometry height="25" width="220" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="R11" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=13;startSize=30;" value="Спагетти болоньезе" vertex="1">
+          <mxGeometry height="150" width="220" x="334" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="R11-1" parent="R11" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 11" vertex="1">
+          <mxGeometry height="25" width="220" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R11-2" parent="R11" style="text;fontSize=12;align=left;spacingLeft=8;" value="cuisine = итальянская" vertex="1">
+          <mxGeometry height="25" width="220" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="R11-3" parent="R11" style="text;fontSize=12;align=left;spacingLeft=8;" value="difficulty = средняя" vertex="1">
+          <mxGeometry height="25" width="220" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R11-4" parent="R11" style="text;fontSize=12;align=left;spacingLeft=8;" value="cook_time = 75 мин,  servings = 4" vertex="1">
+          <mxGeometry height="25" width="220" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="R11-5" parent="R11" style="text;fontSize=12;align=left;spacingLeft=8;" value="calories = 420 / порция" vertex="1">
+          <mxGeometry height="25" width="220" y="125" as="geometry" />
+        </mxCell>
+        <mxCell id="R12" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=13;startSize=30;" value="Блины" vertex="1">
+          <mxGeometry height="150" width="220" x="594" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="R12-1" parent="R12" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 12" vertex="1">
+          <mxGeometry height="25" width="220" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R12-2" parent="R12" style="text;fontSize=12;align=left;spacingLeft=8;" value="cuisine = русская" vertex="1">
+          <mxGeometry height="25" width="220" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="R12-3" parent="R12" style="text;fontSize=12;align=left;spacingLeft=8;" value="difficulty = лёгкая" vertex="1">
+          <mxGeometry height="25" width="220" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R12-4" parent="R12" style="text;fontSize=12;align=left;spacingLeft=8;" value="cook_time = 50 мин,  servings = 5" vertex="1">
+          <mxGeometry height="25" width="220" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="R12-5" parent="R12" style="text;fontSize=12;align=left;spacingLeft=8;" value="calories = 260 / порция" vertex="1">
+          <mxGeometry height="25" width="220" y="125" as="geometry" />
+        </mxCell>
+        <!-- Legend -->
+        <mxCell id="LEG-R" parent="1" style="swimlane;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;fontSize=13;startSize=30;" value="Легенда:" vertex="1">
+          <mxGeometry height="115" width="280" x="74" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="LEG-R1" parent="LEG-R" style="text;fontSize=12;align=left;spacingLeft=8;" value="cuisine: белорусская | русская | итальянская" vertex="1">
+          <mxGeometry height="25" width="280" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LEG-R2" parent="LEG-R" style="text;fontSize=12;align=left;spacingLeft=8;" value="         французская | венгерская | японская" vertex="1">
+          <mxGeometry height="25" width="280" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="LEG-R3" parent="LEG-R" style="text;fontSize=12;align=left;spacingLeft=8;" value="difficulty: лёгкая | средняя | сложная" vertex="1">
+          <mxGeometry height="25" width="280" y="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="ingredient" id="CUL-ingredient-002">
+    <mxGraphModel dx="1288" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <!-- Row 1 -->
+        <mxCell id="I1" parent="1" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=13;startSize=30;" value="Свёкла" vertex="1">
+          <mxGeometry height="130" width="200" x="74" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I1-1" parent="I1" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 1" vertex="1">
+          <mxGeometry height="25" width="200" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I1-2" parent="I1" style="text;fontSize=12;align=left;spacingLeft=8;" value="category = овощ" vertex="1">
+          <mxGeometry height="25" width="200" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="I1-3" parent="I1" style="text;fontSize=12;align=left;spacingLeft=8;" value="calories = 43 / 100г" vertex="1">
+          <mxGeometry height="25" width="200" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I1-4" parent="I1" style="text;fontSize=12;align=left;spacingLeft=8;" value="allergen = нет,  storage = 30 дней" vertex="1">
+          <mxGeometry height="25" width="200" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="I2" parent="1" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=13;startSize=30;" value="Картофель" vertex="1">
+          <mxGeometry height="130" width="200" x="314" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I2-1" parent="I2" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 2" vertex="1">
+          <mxGeometry height="25" width="200" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2-2" parent="I2" style="text;fontSize=12;align=left;spacingLeft=8;" value="category = овощ" vertex="1">
+          <mxGeometry height="25" width="200" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="I2-3" parent="I2" style="text;fontSize=12;align=left;spacingLeft=8;" value="calories = 77 / 100г" vertex="1">
+          <mxGeometry height="25" width="200" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I2-4" parent="I2" style="text;fontSize=12;align=left;spacingLeft=8;" value="allergen = нет,  storage = 60 дней" vertex="1">
+          <mxGeometry height="25" width="200" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="I3" parent="1" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=13;startSize=30;" value="Говядина" vertex="1">
+          <mxGeometry height="130" width="200" x="554" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I3-1" parent="I3" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 3" vertex="1">
+          <mxGeometry height="25" width="200" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I3-2" parent="I3" style="text;fontSize=12;align=left;spacingLeft=8;" value="category = мясо" vertex="1">
+          <mxGeometry height="25" width="200" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="I3-3" parent="I3" style="text;fontSize=12;align=left;spacingLeft=8;" value="calories = 187 / 100г" vertex="1">
+          <mxGeometry height="25" width="200" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I3-4" parent="I3" style="text;fontSize=12;align=left;spacingLeft=8;" value="allergen = нет,  storage = 3 дня" vertex="1">
+          <mxGeometry height="25" width="200" y="105" as="geometry" />
+        </mxCell>
+        <!-- Row 2 -->
+        <mxCell id="I4" parent="1" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=13;startSize=30;" value="Свинина" vertex="1">
+          <mxGeometry height="130" width="200" x="74" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="I4-1" parent="I4" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 4" vertex="1">
+          <mxGeometry height="25" width="200" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I4-2" parent="I4" style="text;fontSize=12;align=left;spacingLeft=8;" value="category = мясо" vertex="1">
+          <mxGeometry height="25" width="200" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="I4-3" parent="I4" style="text;fontSize=12;align=left;spacingLeft=8;" value="calories = 263 / 100г" vertex="1">
+          <mxGeometry height="25" width="200" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I4-4" parent="I4" style="text;fontSize=12;align=left;spacingLeft=8;" value="allergen = нет,  storage = 3 дня" vertex="1">
+          <mxGeometry height="25" width="200" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="I5" parent="1" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=13;startSize=30;" value="Куриный фарш" vertex="1">
+          <mxGeometry height="130" width="200" x="314" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="I5-1" parent="I5" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 5" vertex="1">
+          <mxGeometry height="25" width="200" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I5-2" parent="I5" style="text;fontSize=12;align=left;spacingLeft=8;" value="category = мясо" vertex="1">
+          <mxGeometry height="25" width="200" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="I5-3" parent="I5" style="text;fontSize=12;align=left;spacingLeft=8;" value="calories = 143 / 100г" vertex="1">
+          <mxGeometry height="25" width="200" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I5-4" parent="I5" style="text;fontSize=12;align=left;spacingLeft=8;" value="allergen = нет,  storage = 2 дня" vertex="1">
+          <mxGeometry height="25" width="200" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="I6" parent="1" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=13;startSize=30;" value="Капуста белокочанная" vertex="1">
+          <mxGeometry height="130" width="200" x="554" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="I6-1" parent="I6" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 6" vertex="1">
+          <mxGeometry height="25" width="200" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I6-2" parent="I6" style="text;fontSize=12;align=left;spacingLeft=8;" value="category = овощ" vertex="1">
+          <mxGeometry height="25" width="200" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="I6-3" parent="I6" style="text;fontSize=12;align=left;spacingLeft=8;" value="calories = 27 / 100г" vertex="1">
+          <mxGeometry height="25" width="200" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I6-4" parent="I6" style="text;fontSize=12;align=left;spacingLeft=8;" value="allergen = нет,  storage = 45 дней" vertex="1">
+          <mxGeometry height="25" width="200" y="105" as="geometry" />
+        </mxCell>
+        <!-- Row 3 -->
+        <mxCell id="I7" parent="1" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=13;startSize=30;" value="Яйцо куриное" vertex="1">
+          <mxGeometry height="130" width="200" x="74" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="I7-1" parent="I7" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 7" vertex="1">
+          <mxGeometry height="25" width="200" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I7-2" parent="I7" style="text;fontSize=12;align=left;spacingLeft=8;" value="category = яйцо" vertex="1">
+          <mxGeometry height="25" width="200" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="I7-3" parent="I7" style="text;fontSize=12;align=left;spacingLeft=8;" value="calories = 155 / 100г" vertex="1">
+          <mxGeometry height="25" width="200" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I7-4" parent="I7" style="text;fontSize=12;align=left;spacingLeft=8;" value="⚠ allergen = да,  storage = 25 дней" vertex="1">
+          <mxGeometry height="25" width="200" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="I8" parent="1" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=13;startSize=30;" value="Молоко" vertex="1">
+          <mxGeometry height="130" width="200" x="314" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="I8-1" parent="I8" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 8" vertex="1">
+          <mxGeometry height="25" width="200" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I8-2" parent="I8" style="text;fontSize=12;align=left;spacingLeft=8;" value="category = молочное" vertex="1">
+          <mxGeometry height="25" width="200" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="I8-3" parent="I8" style="text;fontSize=12;align=left;spacingLeft=8;" value="calories = 61 / 100г" vertex="1">
+          <mxGeometry height="25" width="200" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I8-4" parent="I8" style="text;fontSize=12;align=left;spacingLeft=8;" value="⚠ allergen = да,  storage = 5 дней" vertex="1">
+          <mxGeometry height="25" width="200" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="I9" parent="1" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=13;startSize=30;" value="Сметана" vertex="1">
+          <mxGeometry height="130" width="200" x="554" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="I9-1" parent="I9" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 9" vertex="1">
+          <mxGeometry height="25" width="200" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I9-2" parent="I9" style="text;fontSize=12;align=left;spacingLeft=8;" value="category = молочное" vertex="1">
+          <mxGeometry height="25" width="200" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="I9-3" parent="I9" style="text;fontSize=12;align=left;spacingLeft=8;" value="calories = 206 / 100г" vertex="1">
+          <mxGeometry height="25" width="200" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I9-4" parent="I9" style="text;fontSize=12;align=left;spacingLeft=8;" value="⚠ allergen = да,  storage = 7 дней" vertex="1">
+          <mxGeometry height="25" width="200" y="105" as="geometry" />
+        </mxCell>
+        <!-- Row 4 -->
+        <mxCell id="I10" parent="1" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=13;startSize=30;" value="Мука пшеничная" vertex="1">
+          <mxGeometry height="130" width="200" x="74" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="I10-1" parent="I10" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 10" vertex="1">
+          <mxGeometry height="25" width="200" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I10-2" parent="I10" style="text;fontSize=12;align=left;spacingLeft=8;" value="category = зерновое" vertex="1">
+          <mxGeometry height="25" width="200" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="I10-3" parent="I10" style="text;fontSize=12;align=left;spacingLeft=8;" value="calories = 364 / 100г" vertex="1">
+          <mxGeometry height="25" width="200" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I10-4" parent="I10" style="text;fontSize=12;align=left;spacingLeft=8;" value="⚠ allergen = да,  storage = 180 дней" vertex="1">
+          <mxGeometry height="25" width="200" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="I11" parent="1" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=13;startSize=30;" value="Лук репчатый" vertex="1">
+          <mxGeometry height="130" width="200" x="314" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="I11-1" parent="I11" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 11" vertex="1">
+          <mxGeometry height="25" width="200" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I11-2" parent="I11" style="text;fontSize=12;align=left;spacingLeft=8;" value="category = овощ" vertex="1">
+          <mxGeometry height="25" width="200" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="I11-3" parent="I11" style="text;fontSize=12;align=left;spacingLeft=8;" value="calories = 41 / 100г" vertex="1">
+          <mxGeometry height="25" width="200" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I11-4" parent="I11" style="text;fontSize=12;align=left;spacingLeft=8;" value="allergen = нет,  storage = 30 дней" vertex="1">
+          <mxGeometry height="25" width="200" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="I12" parent="1" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=13;startSize=30;" value="Морковь" vertex="1">
+          <mxGeometry height="130" width="200" x="554" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="I12-1" parent="I12" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 12" vertex="1">
+          <mxGeometry height="25" width="200" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I12-2" parent="I12" style="text;fontSize=12;align=left;spacingLeft=8;" value="category = овощ" vertex="1">
+          <mxGeometry height="25" width="200" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="I12-3" parent="I12" style="text;fontSize=12;align=left;spacingLeft=8;" value="calories = 41 / 100г" vertex="1">
+          <mxGeometry height="25" width="200" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I12-4" parent="I12" style="text;fontSize=12;align=left;spacingLeft=8;" value="allergen = нет,  storage = 30 дней" vertex="1">
+          <mxGeometry height="25" width="200" y="105" as="geometry" />
+        </mxCell>
+        <!-- Row 5 -->
+        <mxCell id="I13" parent="1" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=13;startSize=30;" value="Паприка сладкая" vertex="1">
+          <mxGeometry height="130" width="200" x="74" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="I13-1" parent="I13" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 13" vertex="1">
+          <mxGeometry height="25" width="200" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I13-2" parent="I13" style="text;fontSize=12;align=left;spacingLeft=8;" value="category = специя" vertex="1">
+          <mxGeometry height="25" width="200" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="I13-3" parent="I13" style="text;fontSize=12;align=left;spacingLeft=8;" value="calories = 289 / 100г" vertex="1">
+          <mxGeometry height="25" width="200" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I13-4" parent="I13" style="text;fontSize=12;align=left;spacingLeft=8;" value="allergen = нет,  storage = 730 дней" vertex="1">
+          <mxGeometry height="25" width="200" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="I14" parent="1" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=13;startSize=30;" value="Томатная паста" vertex="1">
+          <mxGeometry height="130" width="200" x="314" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="I14-1" parent="I14" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 14" vertex="1">
+          <mxGeometry height="25" width="200" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I14-2" parent="I14" style="text;fontSize=12;align=left;spacingLeft=8;" value="category = овощ" vertex="1">
+          <mxGeometry height="25" width="200" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="I14-3" parent="I14" style="text;fontSize=12;align=left;spacingLeft=8;" value="calories = 82 / 100г" vertex="1">
+          <mxGeometry height="25" width="200" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I14-4" parent="I14" style="text;fontSize=12;align=left;spacingLeft=8;" value="allergen = нет,  storage = 3 дня" vertex="1">
+          <mxGeometry height="25" width="200" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="I15" parent="1" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=13;startSize=30;" value="Сливочное масло" vertex="1">
+          <mxGeometry height="130" width="200" x="554" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="I15-1" parent="I15" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 15" vertex="1">
+          <mxGeometry height="25" width="200" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I15-2" parent="I15" style="text;fontSize=12;align=left;spacingLeft=8;" value="category = жир" vertex="1">
+          <mxGeometry height="25" width="200" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="I15-3" parent="I15" style="text;fontSize=12;align=left;spacingLeft=8;" value="calories = 748 / 100г" vertex="1">
+          <mxGeometry height="25" width="200" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I15-4" parent="I15" style="text;fontSize=12;align=left;spacingLeft=8;" value="⚠ allergen = да,  storage = 30 дней" vertex="1">
+          <mxGeometry height="25" width="200" y="105" as="geometry" />
+        </mxCell>
+        <!-- Row 6 -->
+        <mxCell id="I16" parent="1" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=13;startSize=30;" value="Кефир" vertex="1">
+          <mxGeometry height="130" width="200" x="74" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="I16-1" parent="I16" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 16" vertex="1">
+          <mxGeometry height="25" width="200" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I16-2" parent="I16" style="text;fontSize=12;align=left;spacingLeft=8;" value="category = молочное" vertex="1">
+          <mxGeometry height="25" width="200" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="I16-3" parent="I16" style="text;fontSize=12;align=left;spacingLeft=8;" value="calories = 56 / 100г" vertex="1">
+          <mxGeometry height="25" width="200" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I16-4" parent="I16" style="text;fontSize=12;align=left;spacingLeft=8;" value="⚠ allergen = да,  storage = 7 дней" vertex="1">
+          <mxGeometry height="25" width="200" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="I17" parent="1" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=13;startSize=30;" value="Сахар" vertex="1">
+          <mxGeometry height="130" width="200" x="314" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="I17-1" parent="I17" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 17" vertex="1">
+          <mxGeometry height="25" width="200" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I17-2" parent="I17" style="text;fontSize=12;align=left;spacingLeft=8;" value="category = сладкое" vertex="1">
+          <mxGeometry height="25" width="200" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="I17-3" parent="I17" style="text;fontSize=12;align=left;spacingLeft=8;" value="calories = 387 / 100г" vertex="1">
+          <mxGeometry height="25" width="200" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I17-4" parent="I17" style="text;fontSize=12;align=left;spacingLeft=8;" value="allergen = нет,  storage = 730 дней" vertex="1">
+          <mxGeometry height="25" width="200" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="I18" parent="1" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=13;startSize=30;" value="Жирные сливки 33%" vertex="1">
+          <mxGeometry height="130" width="200" x="554" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="I18-1" parent="I18" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 18" vertex="1">
+          <mxGeometry height="25" width="200" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I18-2" parent="I18" style="text;fontSize=12;align=left;spacingLeft=8;" value="category = молочное" vertex="1">
+          <mxGeometry height="25" width="200" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="I18-3" parent="I18" style="text;fontSize=12;align=left;spacingLeft=8;" value="calories = 337 / 100г" vertex="1">
+          <mxGeometry height="25" width="200" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I18-4" parent="I18" style="text;fontSize=12;align=left;spacingLeft=8;" value="⚠ allergen = да,  storage = 5 дней" vertex="1">
+          <mxGeometry height="25" width="200" y="105" as="geometry" />
+        </mxCell>
+        <!-- Row 7 -->
+        <mxCell id="I19" parent="1" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=13;startSize=30;" value="Укроп" vertex="1">
+          <mxGeometry height="130" width="200" x="74" y="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="I19-1" parent="I19" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 19" vertex="1">
+          <mxGeometry height="25" width="200" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I19-2" parent="I19" style="text;fontSize=12;align=left;spacingLeft=8;" value="category = зелень" vertex="1">
+          <mxGeometry height="25" width="200" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="I19-3" parent="I19" style="text;fontSize=12;align=left;spacingLeft=8;" value="calories = 38 / 100г" vertex="1">
+          <mxGeometry height="25" width="200" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I19-4" parent="I19" style="text;fontSize=12;align=left;spacingLeft=8;" value="allergen = нет,  storage = 5 дней" vertex="1">
+          <mxGeometry height="25" width="200" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="I20" parent="1" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=13;startSize=30;" value="Фарш говяжий" vertex="1">
+          <mxGeometry height="130" width="200" x="314" y="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="I20-1" parent="I20" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 20" vertex="1">
+          <mxGeometry height="25" width="200" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I20-2" parent="I20" style="text;fontSize=12;align=left;spacingLeft=8;" value="category = мясо" vertex="1">
+          <mxGeometry height="25" width="200" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="I20-3" parent="I20" style="text;fontSize=12;align=left;spacingLeft=8;" value="calories = 235 / 100г" vertex="1">
+          <mxGeometry height="25" width="200" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I20-4" parent="I20" style="text;fontSize=12;align=left;spacingLeft=8;" value="allergen = нет,  storage = 2 дня" vertex="1">
+          <mxGeometry height="25" width="200" y="105" as="geometry" />
+        </mxCell>
+        <!-- Legend -->
+        <mxCell id="LEG-I" parent="1" style="swimlane;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;fontSize=13;startSize=30;" value="Легенда:" vertex="1">
+          <mxGeometry height="90" width="280" x="74" y="1270" as="geometry" />
+        </mxCell>
+        <mxCell id="LEG-I1" parent="LEG-I" style="text;fontSize=12;align=left;spacingLeft=8;" value="⚠ allergen = да  (аллерген)" vertex="1">
+          <mxGeometry height="25" width="280" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LEG-I2" parent="LEG-I" style="text;fontSize=12;align=left;spacingLeft=8;" value="category: мясо | рыба | овощ | молочное | ..." vertex="1">
+          <mxGeometry height="25" width="280" y="55" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="technique" id="CUL-technique-003">
+    <mxGraphModel dx="1288" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <!-- Row 1 -->
+        <mxCell id="T1" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;startSize=30;" value="Варка" vertex="1">
+          <mxGeometry height="140" width="220" x="74" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T1-1" parent="T1" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 1" vertex="1">
+          <mxGeometry height="25" width="220" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T1-2" parent="T1" style="text;fontSize=12;align=left;spacingLeft=8;" value="type = термическая" vertex="1">
+          <mxGeometry height="25" width="220" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="T1-3" parent="T1" style="text;fontSize=12;align=left;spacingLeft=8;" value="avg_duration = 30 мин" vertex="1">
+          <mxGeometry height="25" width="220" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T1-4" parent="T1" style="text;fontSize=12;align=left;spacingLeft=8;" value="equipment = Кастрюля, плита" vertex="1">
+          <mxGeometry height="25" width="220" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="T2" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;startSize=30;" value="Жарка на сковороде" vertex="1">
+          <mxGeometry height="140" width="220" x="334" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T2-1" parent="T2" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 2" vertex="1">
+          <mxGeometry height="25" width="220" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T2-2" parent="T2" style="text;fontSize=12;align=left;spacingLeft=8;" value="type = термическая" vertex="1">
+          <mxGeometry height="25" width="220" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="T2-3" parent="T2" style="text;fontSize=12;align=left;spacingLeft=8;" value="avg_duration = 15 мин" vertex="1">
+          <mxGeometry height="25" width="220" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T2-4" parent="T2" style="text;fontSize=12;align=left;spacingLeft=8;" value="equipment = Сковорода, плита" vertex="1">
+          <mxGeometry height="25" width="220" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="T3" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;startSize=30;" value="Тушение" vertex="1">
+          <mxGeometry height="140" width="220" x="594" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T3-1" parent="T3" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 3" vertex="1">
+          <mxGeometry height="25" width="220" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T3-2" parent="T3" style="text;fontSize=12;align=left;spacingLeft=8;" value="type = термическая" vertex="1">
+          <mxGeometry height="25" width="220" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="T3-3" parent="T3" style="text;fontSize=12;align=left;spacingLeft=8;" value="avg_duration = 60 мин" vertex="1">
+          <mxGeometry height="25" width="220" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T3-4" parent="T3" style="text;fontSize=12;align=left;spacingLeft=8;" value="equipment = Кастрюля, плита" vertex="1">
+          <mxGeometry height="25" width="220" y="105" as="geometry" />
+        </mxCell>
+        <!-- Row 2 -->
+        <mxCell id="T4" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;startSize=30;" value="Запекание в духовке" vertex="1">
+          <mxGeometry height="140" width="220" x="74" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="T4-1" parent="T4" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 4" vertex="1">
+          <mxGeometry height="25" width="220" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T4-2" parent="T4" style="text;fontSize=12;align=left;spacingLeft=8;" value="type = термическая" vertex="1">
+          <mxGeometry height="25" width="220" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="T4-3" parent="T4" style="text;fontSize=12;align=left;spacingLeft=8;" value="avg_duration = 40 мин" vertex="1">
+          <mxGeometry height="25" width="220" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T4-4" parent="T4" style="text;fontSize=12;align=left;spacingLeft=8;" value="equipment = Духовой шкаф, форма" vertex="1">
+          <mxGeometry height="25" width="220" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="T5" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;startSize=30;" value="Натирание на тёрке" vertex="1">
+          <mxGeometry height="140" width="220" x="334" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="T5-1" parent="T5" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 5" vertex="1">
+          <mxGeometry height="25" width="220" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T5-2" parent="T5" style="text;fontSize=12;align=left;spacingLeft=8;" value="type = нарезка" vertex="1">
+          <mxGeometry height="25" width="220" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="T5-3" parent="T5" style="text;fontSize=12;align=left;spacingLeft=8;" value="avg_duration = 10 мин" vertex="1">
+          <mxGeometry height="25" width="220" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T5-4" parent="T5" style="text;fontSize=12;align=left;spacingLeft=8;" value="equipment = Тёрка" vertex="1">
+          <mxGeometry height="25" width="220" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="T6" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;startSize=30;" value="Замес теста" vertex="1">
+          <mxGeometry height="140" width="220" x="594" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="T6-1" parent="T6" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 6" vertex="1">
+          <mxGeometry height="25" width="220" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T6-2" parent="T6" style="text;fontSize=12;align=left;spacingLeft=8;" value="type = смешивание" vertex="1">
+          <mxGeometry height="25" width="220" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="T6-3" parent="T6" style="text;fontSize=12;align=left;spacingLeft=8;" value="avg_duration = 15 мин" vertex="1">
+          <mxGeometry height="25" width="220" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T6-4" parent="T6" style="text;fontSize=12;align=left;spacingLeft=8;" value="equipment = Миска, руки / миксер" vertex="1">
+          <mxGeometry height="25" width="220" y="105" as="geometry" />
+        </mxCell>
+        <!-- Row 3 -->
+        <mxCell id="T7" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;startSize=30;" value="Перемешивание" vertex="1">
+          <mxGeometry height="140" width="220" x="74" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="T7-1" parent="T7" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 7" vertex="1">
+          <mxGeometry height="25" width="220" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T7-2" parent="T7" style="text;fontSize=12;align=left;spacingLeft=8;" value="type = смешивание" vertex="1">
+          <mxGeometry height="25" width="220" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="T7-3" parent="T7" style="text;fontSize=12;align=left;spacingLeft=8;" value="avg_duration = 5 мин" vertex="1">
+          <mxGeometry height="25" width="220" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T7-4" parent="T7" style="text;fontSize=12;align=left;spacingLeft=8;" value="equipment = Ложка / венчик" vertex="1">
+          <mxGeometry height="25" width="220" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="T8" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;startSize=30;" value="Карамелизация" vertex="1">
+          <mxGeometry height="140" width="220" x="334" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="T8-1" parent="T8" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 8" vertex="1">
+          <mxGeometry height="25" width="220" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T8-2" parent="T8" style="text;fontSize=12;align=left;spacingLeft=8;" value="type = термическая" vertex="1">
+          <mxGeometry height="25" width="220" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="T8-3" parent="T8" style="text;fontSize=12;align=left;spacingLeft=8;" value="avg_duration = 10 мин" vertex="1">
+          <mxGeometry height="25" width="220" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T8-4" parent="T8" style="text;fontSize=12;align=left;spacingLeft=8;" value="equipment = Горелка / гриль" vertex="1">
+          <mxGeometry height="25" width="220" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="T9" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;startSize=30;" value="Взбивание" vertex="1">
+          <mxGeometry height="140" width="220" x="594" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="T9-1" parent="T9" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 9" vertex="1">
+          <mxGeometry height="25" width="220" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T9-2" parent="T9" style="text;fontSize=12;align=left;spacingLeft=8;" value="type = смешивание" vertex="1">
+          <mxGeometry height="25" width="220" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="T9-3" parent="T9" style="text;fontSize=12;align=left;spacingLeft=8;" value="avg_duration = 10 мин" vertex="1">
+          <mxGeometry height="25" width="220" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T9-4" parent="T9" style="text;fontSize=12;align=left;spacingLeft=8;" value="equipment = Миксер / венчик" vertex="1">
+          <mxGeometry height="25" width="220" y="105" as="geometry" />
+        </mxCell>
+        <!-- Row 4 -->
+        <mxCell id="T10" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=13;startSize=30;" value="Лепка" vertex="1">
+          <mxGeometry height="140" width="220" x="74" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="T10-1" parent="T10" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 10" vertex="1">
+          <mxGeometry height="25" width="220" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T10-2" parent="T10" style="text;fontSize=12;align=left;spacingLeft=8;" value="type = формовка" vertex="1">
+          <mxGeometry height="25" width="220" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="T10-3" parent="T10" style="text;fontSize=12;align=left;spacingLeft=8;" value="avg_duration = 30 мин" vertex="1">
+          <mxGeometry height="25" width="220" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T10-4" parent="T10" style="text;fontSize=12;align=left;spacingLeft=8;" value="equipment = Руки, доска, скалка" vertex="1">
+          <mxGeometry height="25" width="220" y="105" as="geometry" />
+        </mxCell>
+        <!-- Legend -->
+        <mxCell id="LEG-T" parent="1" style="swimlane;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;fontSize=13;startSize=30;" value="Легенда:" vertex="1">
+          <mxGeometry height="90" width="280" x="74" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="LEG-T1" parent="LEG-T" style="text;fontSize=12;align=left;spacingLeft=8;" value="type: термическая | нарезка | смешивание" vertex="1">
+          <mxGeometry height="25" width="280" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LEG-T2" parent="LEG-T" style="text;fontSize=12;align=left;spacingLeft=8;" value="       консервация | формовка" vertex="1">
+          <mxGeometry height="25" width="280" y="55" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="chef" id="CUL-chef-004">
+    <mxGraphModel dx="1288" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <!-- Row 1 -->
+        <mxCell id="C1" parent="1" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=13;startSize=30;" value="Алексей Дудченко" vertex="1">
+          <mxGeometry height="140" width="210" x="74" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C1-1" parent="C1" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 1" vertex="1">
+          <mxGeometry height="25" width="210" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C1-2" parent="C1" style="text;fontSize=12;align=left;spacingLeft=8;" value="country = Беларусь" vertex="1">
+          <mxGeometry height="25" width="210" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="C1-3" parent="C1" style="text;fontSize=12;align=left;spacingLeft=8;" value="specialization = национальная" vertex="1">
+          <mxGeometry height="25" width="210" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C1-4" parent="C1" style="text;fontSize=12;align=left;spacingLeft=8;" value="level = профессионал,  exp = 18 лет" vertex="1">
+          <mxGeometry height="25" width="210" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="C2" parent="1" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=13;startSize=30;" value="Татьяна Маслова" vertex="1">
+          <mxGeometry height="140" width="210" x="324" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C2-1" parent="C2" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 2" vertex="1">
+          <mxGeometry height="25" width="210" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C2-2" parent="C2" style="text;fontSize=12;align=left;spacingLeft=8;" value="country = Россия" vertex="1">
+          <mxGeometry height="25" width="210" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="C2-3" parent="C2" style="text;fontSize=12;align=left;spacingLeft=8;" value="specialization = национальная" vertex="1">
+          <mxGeometry height="25" width="210" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C2-4" parent="C2" style="text;fontSize=12;align=left;spacingLeft=8;" value="level = мастер,  exp = 25 лет,  ⭐1" vertex="1">
+          <mxGeometry height="25" width="210" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="C3" parent="1" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=13;startSize=30;" value="Иван Назаров" vertex="1">
+          <mxGeometry height="140" width="210" x="574" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C3-1" parent="C3" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 3" vertex="1">
+          <mxGeometry height="25" width="210" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C3-2" parent="C3" style="text;fontSize=12;align=left;spacingLeft=8;" value="country = Россия" vertex="1">
+          <mxGeometry height="25" width="210" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="C3-3" parent="C3" style="text;fontSize=12;align=left;spacingLeft=8;" value="specialization = мясо" vertex="1">
+          <mxGeometry height="25" width="210" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C3-4" parent="C3" style="text;fontSize=12;align=left;spacingLeft=8;" value="level = профессионал,  exp = 12 лет" vertex="1">
+          <mxGeometry height="25" width="210" y="105" as="geometry" />
+        </mxCell>
+        <!-- Row 2 -->
+        <mxCell id="C4" parent="1" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=13;startSize=30;" value="Людмила Ковалёва" vertex="1">
+          <mxGeometry height="140" width="210" x="74" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="C4-1" parent="C4" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 4" vertex="1">
+          <mxGeometry height="25" width="210" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C4-2" parent="C4" style="text;fontSize=12;align=left;spacingLeft=8;" value="country = Беларусь" vertex="1">
+          <mxGeometry height="25" width="210" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="C4-3" parent="C4" style="text;fontSize=12;align=left;spacingLeft=8;" value="specialization = национальная" vertex="1">
+          <mxGeometry height="25" width="210" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C4-4" parent="C4" style="text;fontSize=12;align=left;spacingLeft=8;" value="level = домашний,  exp = 8 лет" vertex="1">
+          <mxGeometry height="25" width="210" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="C5" parent="1" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=13;startSize=30;" value="Жан-Пьер Дюбуа" vertex="1">
+          <mxGeometry height="140" width="210" x="324" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="C5-1" parent="C5" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 5" vertex="1">
+          <mxGeometry height="25" width="210" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C5-2" parent="C5" style="text;fontSize=12;align=left;spacingLeft=8;" value="country = Франция" vertex="1">
+          <mxGeometry height="25" width="210" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="C5-3" parent="C5" style="text;fontSize=12;align=left;spacingLeft=8;" value="specialization = кондитерская" vertex="1">
+          <mxGeometry height="25" width="210" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C5-4" parent="C5" style="text;fontSize=12;align=left;spacingLeft=8;" value="level = мастер,  exp = 30 лет,  ⭐2" vertex="1">
+          <mxGeometry height="25" width="210" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="C6" parent="1" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=13;startSize=30;" value="Андраш Варга" vertex="1">
+          <mxGeometry height="140" width="210" x="574" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="C6-1" parent="C6" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 6" vertex="1">
+          <mxGeometry height="25" width="210" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C6-2" parent="C6" style="text;fontSize=12;align=left;spacingLeft=8;" value="country = Венгрия" vertex="1">
+          <mxGeometry height="25" width="210" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="C6-3" parent="C6" style="text;fontSize=12;align=left;spacingLeft=8;" value="specialization = мясо" vertex="1">
+          <mxGeometry height="25" width="210" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C6-4" parent="C6" style="text;fontSize=12;align=left;spacingLeft=8;" value="level = профессионал,  exp = 20 лет" vertex="1">
+          <mxGeometry height="25" width="210" y="105" as="geometry" />
+        </mxCell>
+        <!-- Row 3 -->
+        <mxCell id="C7" parent="1" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=13;startSize=30;" value="Марко Феррари" vertex="1">
+          <mxGeometry height="140" width="210" x="74" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="C7-1" parent="C7" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 7" vertex="1">
+          <mxGeometry height="25" width="210" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C7-2" parent="C7" style="text;fontSize=12;align=left;spacingLeft=8;" value="country = Италия" vertex="1">
+          <mxGeometry height="25" width="210" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="C7-3" parent="C7" style="text;fontSize=12;align=left;spacingLeft=8;" value="specialization = национальная" vertex="1">
+          <mxGeometry height="25" width="210" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C7-4" parent="C7" style="text;fontSize=12;align=left;spacingLeft=8;" value="level = мастер,  exp = 22 лет,  ⭐1" vertex="1">
+          <mxGeometry height="25" width="210" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="C8" parent="1" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=13;startSize=30;" value="Светлана Орлова" vertex="1">
+          <mxGeometry height="140" width="210" x="324" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="C8-1" parent="C8" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 8" vertex="1">
+          <mxGeometry height="25" width="210" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C8-2" parent="C8" style="text;fontSize=12;align=left;spacingLeft=8;" value="country = Россия" vertex="1">
+          <mxGeometry height="25" width="210" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="C8-3" parent="C8" style="text;fontSize=12;align=left;spacingLeft=8;" value="specialization = вегетарианская" vertex="1">
+          <mxGeometry height="25" width="210" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C8-4" parent="C8" style="text;fontSize=12;align=left;spacingLeft=8;" value="level = профессионал,  exp = 10 лет" vertex="1">
+          <mxGeometry height="25" width="210" y="105" as="geometry" />
+        </mxCell>
+        <mxCell id="C9" parent="1" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=13;startSize=30;" value="Виктор Зайцев" vertex="1">
+          <mxGeometry height="140" width="210" x="574" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="C9-1" parent="C9" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 9" vertex="1">
+          <mxGeometry height="25" width="210" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C9-2" parent="C9" style="text;fontSize=12;align=left;spacingLeft=8;" value="country = Россия" vertex="1">
+          <mxGeometry height="25" width="210" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="C9-3" parent="C9" style="text;fontSize=12;align=left;spacingLeft=8;" value="specialization = национальная" vertex="1">
+          <mxGeometry height="25" width="210" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C9-4" parent="C9" style="text;fontSize=12;align=left;spacingLeft=8;" value="level = домашний,  exp = 5 лет" vertex="1">
+          <mxGeometry height="25" width="210" y="105" as="geometry" />
+        </mxCell>
+        <!-- Row 4 -->
+        <mxCell id="C10" parent="1" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=13;startSize=30;" value="Мария Жукова" vertex="1">
+          <mxGeometry height="140" width="210" x="74" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="C10-1" parent="C10" style="text;fontSize=12;align=left;spacingLeft=8;" value="id = 10" vertex="1">
+          <mxGeometry height="25" width="210" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C10-2" parent="C10" style="text;fontSize=12;align=left;spacingLeft=8;" value="country = Беларусь" vertex="1">
+          <mxGeometry height="25" width="210" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="C10-3" parent="C10" style="text;fontSize=12;align=left;spacingLeft=8;" value="specialization = кондитерская" vertex="1">
+          <mxGeometry height="25" width="210" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C10-4" parent="C10" style="text;fontSize=12;align=left;spacingLeft=8;" value="level = профессионал,  exp = 15 лет" vertex="1">
+          <mxGeometry height="25" width="210" y="105" as="geometry" />
+        </mxCell>
+        <!-- Legend -->
+        <mxCell id="LEG-C" parent="1" style="swimlane;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;fontSize=13;startSize=30;" value="Легенда:" vertex="1">
+          <mxGeometry height="90" width="300" x="74" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="LEG-C1" parent="LEG-C" style="text;fontSize=12;align=left;spacingLeft=8;" value="level: домашний | профессионал | мастер" vertex="1">
+          <mxGeometry height="25" width="300" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LEG-C2" parent="LEG-C" style="text;fontSize=12;align=left;spacingLeft=8;" value="⭐ = кол-во звёзд Мишлен" vertex="1">
+          <mxGeometry height="25" width="300" y="55" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="recipeIngredient" id="CUL-recipeIngredient-005">
+    <mxGraphModel dx="1076" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RI-R1" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=12;startSize=25;" value="Борщ" vertex="1">
+          <mxGeometry height="50" width="150" x="40" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RI-R1-s" parent="RI-R1" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=1, белорусская, средняя" vertex="1">
+          <mxGeometry height="25" width="150" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="RI-R2" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=12;startSize=25;" value="Драники" vertex="1">
+          <mxGeometry height="50" width="150" x="40" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="RI-R2-s" parent="RI-R2" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=2, белорусская, лёгкая" vertex="1">
+          <mxGeometry height="25" width="150" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="RI-R3" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=12;startSize=25;" value="Пельмени" vertex="1">
+          <mxGeometry height="50" width="150" x="40" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="RI-R3-s" parent="RI-R3" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=3, русская, средняя" vertex="1">
+          <mxGeometry height="25" width="150" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="RI-R6" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=12;startSize=25;" value="Мачанка с блинами" vertex="1">
+          <mxGeometry height="50" width="150" x="40" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="RI-R6-s" parent="RI-R6" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=6, белорусская, средняя" vertex="1">
+          <mxGeometry height="25" width="150" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="RI-R7" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=12;startSize=25;" value="Гуляш" vertex="1">
+          <mxGeometry height="50" width="150" x="40" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="RI-R7-s" parent="RI-R7" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=7, венгерская, средняя" vertex="1">
+          <mxGeometry height="25" width="150" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="RI-R10" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=12;startSize=25;" value="Крем-брюле" vertex="1">
+          <mxGeometry height="50" width="150" x="40" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="RI-R10-s" parent="RI-R10" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=10, французская, сложная" vertex="1">
+          <mxGeometry height="25" width="150" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="RI-R11" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=12;startSize=25;" value="Спагетти болоньезе" vertex="1">
+          <mxGeometry height="50" width="150" x="40" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="RI-R11-s" parent="RI-R11" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=11, итальянская, средняя" vertex="1">
+          <mxGeometry height="25" width="150" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="RI-I1" parent="1" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=12;startSize=25;" value="Говядина" vertex="1">
+          <mxGeometry height="50" width="160" x="590" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RI-I1-s" parent="RI-I1" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=3, мясо" vertex="1">
+          <mxGeometry height="25" width="160" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="RI-I2" parent="1" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=12;startSize=25;" value="Свинина" vertex="1">
+          <mxGeometry height="50" width="160" x="590" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="RI-I2-s" parent="RI-I2" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=4, мясо" vertex="1">
+          <mxGeometry height="25" width="160" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="RI-I3" parent="1" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=12;startSize=25;" value="Картофель" vertex="1">
+          <mxGeometry height="50" width="160" x="590" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="RI-I3-s" parent="RI-I3" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=2, овощ" vertex="1">
+          <mxGeometry height="25" width="160" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="RI-I4" parent="1" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=12;startSize=25;" value="Свёкла" vertex="1">
+          <mxGeometry height="50" width="160" x="590" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="RI-I4-s" parent="RI-I4" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=1, овощ" vertex="1">
+          <mxGeometry height="25" width="160" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="RI-I5" parent="1" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=12;startSize=25;" value="Мука пшеничная" vertex="1">
+          <mxGeometry height="50" width="160" x="600" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="RI-I5-s" parent="RI-I5" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=10, зерновое" vertex="1">
+          <mxGeometry height="25" width="160" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="RI-I6" parent="1" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=12;startSize=25;" value="Жирные сливки 33%" vertex="1">
+          <mxGeometry height="50" width="160" x="590" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="RI-I6-s" parent="RI-I6" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=18, молочное" vertex="1">
+          <mxGeometry height="25" width="160" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="RI-I7" parent="1" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=12;startSize=25;" value="Фарш говяжий" vertex="1">
+          <mxGeometry height="50" width="160" x="590" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="RI-I7-s" parent="RI-I7" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=20, мясо" vertex="1">
+          <mxGeometry height="25" width="160" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="E-R1-I1" edge="1" parent="1" source="RI-R1" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;fontColor=#333333;" target="RI-I1" value="[RecipeIngredient]&#xa;quantity=0.50 кг&#xa;is_optional=нет&#xa;note=На кости для бульона">
+          <mxGeometry relative="1" x="-0.55" y="-5" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E-R1-I4" edge="1" parent="1" source="RI-R1" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;fontColor=#333333;" target="RI-I4" value="[RecipeIngredient]&#xa;quantity=0.50 кг&#xa;is_optional=нет">
+          <mxGeometry relative="1" x="-0.1523" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="650" y="105" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E-R2-I3" edge="1" parent="1" source="RI-R2" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;fontColor=#333333;" target="RI-I3" value="[RecipeIngredient]&#xa;quantity=0.80 кг&#xa;note=Натереть">
+          <mxGeometry relative="1" x="-0.2792" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="730" y="205" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E-R3-I2" edge="1" parent="1" source="RI-R3" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;fontColor=#333333;" target="RI-I2" value="[RecipeIngredient]&#xa;quantity=0.40 кг&#xa;note=50/50 с говядиной">
+          <mxGeometry relative="1" x="-0.6036" y="-5" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E-R3-I5" edge="1" parent="1" source="RI-R3" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;fontColor=#333333;" target="RI-I5" value="[RecipeIngredient]&#xa;quantity=0.50 кг&#xa;note=Для теста">
+          <mxGeometry relative="1" x="-0.1278" as="geometry">
+            <mxPoint x="1" as="offset" />
+            <Array as="points">
+              <mxPoint x="730" y="305" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E-R6-I2" edge="1" parent="1" source="RI-R6" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;fontColor=#333333;" target="RI-I2" value="[RecipeIngredient]&#xa;quantity=0.60 кг&#xa;note=Рёбра и грудинка">
+          <mxGeometry relative="1" x="-0.3894" y="5" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="700" y="405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E-R7-I1" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;fontColor=#333333;" value="[RecipeIngredient]&#xa;quantity=0.80 кг&#xa;note=Нарезать кубиками">
+          <mxGeometry relative="1" x="-0.5322" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="630" y="505" />
+            </Array>
+            <mxPoint x="210" y="505.0526315789473" as="sourcePoint" />
+            <mxPoint x="630.0000000000002" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E-R10-I6" edge="1" parent="1" source="RI-R10" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;fontColor=#333333;" target="RI-I6" value="[RecipeIngredient]&#xa;quantity=0.50 л&#xa;note=Жирные 33%">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E-R11-I7" edge="1" parent="1" source="RI-R11" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;fontColor=#333333;" target="RI-I7" value="[RecipeIngredient]&#xa;quantity=0.50 кг">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LEG-RI" parent="1" style="swimlane;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;fontSize=13;startSize=30;" value="Легенда:" vertex="1">
+          <mxGeometry height="90" width="300" x="40" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="LEG-RI1" parent="LEG-RI" style="text;fontSize=12;align=left;spacingLeft=8;" value="→  [RecipeIngredient]: Рецепт содержит ингредиент" vertex="1">
+          <mxGeometry height="25" width="300" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LEG-RI2" parent="LEG-RI" style="text;fontSize=12;align=left;spacingLeft=8;" value="is_optional: 0=обязательный, 1=необязательный" vertex="1">
+          <mxGeometry height="25" width="300" y="55" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="appliedIn" id="CUL-appliedIn-006">
+    <mxGraphModel dx="1202" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AI-T1" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=12;startSize=25;" value="Варка" vertex="1">
+          <mxGeometry height="50" width="150" x="40" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AI-T1-s" parent="AI-T1" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=1, термическая" vertex="1">
+          <mxGeometry height="25" width="150" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="AI-T2" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=12;startSize=25;" value="Жарка на сковороде" vertex="1">
+          <mxGeometry height="50" width="150" x="40" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="AI-T2-s" parent="AI-T2" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=2, термическая" vertex="1">
+          <mxGeometry height="25" width="150" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="AI-T3" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=12;startSize=25;" value="Тушение" vertex="1">
+          <mxGeometry height="50" width="150" x="40" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="AI-T3-s" parent="AI-T3" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=3, термическая" vertex="1">
+          <mxGeometry height="25" width="150" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="AI-T4" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=12;startSize=25;" value="Запекание в духовке" vertex="1">
+          <mxGeometry height="50" width="150" x="40" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="AI-T4-s" parent="AI-T4" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=4, термическая" vertex="1">
+          <mxGeometry height="25" width="150" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="AI-T6" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=12;startSize=25;" value="Замес теста" vertex="1">
+          <mxGeometry height="50" width="150" x="40" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="AI-T6-s" parent="AI-T6" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=6, смешивание" vertex="1">
+          <mxGeometry height="25" width="150" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="AI-T8" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=12;startSize=25;" value="Карамелизация" vertex="1">
+          <mxGeometry height="50" width="150" x="40" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="AI-T8-s" parent="AI-T8" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=8, термическая" vertex="1">
+          <mxGeometry height="25" width="150" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="AI-T9" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=12;startSize=25;" value="Взбивание" vertex="1">
+          <mxGeometry height="50" width="150" x="40" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="AI-T9-s" parent="AI-T9" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=9, смешивание" vertex="1">
+          <mxGeometry height="25" width="150" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="AI-T10" parent="1" style="swimlane;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontSize=12;startSize=25;" value="Лепка" vertex="1">
+          <mxGeometry height="50" width="150" x="40" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="AI-T10-s" parent="AI-T10" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=10, формовка" vertex="1">
+          <mxGeometry height="25" width="150" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="AI-R1" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=12;startSize=25;" value="Борщ" vertex="1">
+          <mxGeometry height="50" width="160" x="590" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AI-R1-s" parent="AI-R1" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=1, белорусская" vertex="1">
+          <mxGeometry height="25" width="160" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="AI-R2" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=12;startSize=25;" value="Драники" vertex="1">
+          <mxGeometry height="50" width="160" x="590" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="AI-R2-s" parent="AI-R2" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=2, белорусская" vertex="1">
+          <mxGeometry height="25" width="160" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="AI-R3" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=12;startSize=25;" value="Пельмени" vertex="1">
+          <mxGeometry height="50" width="160" x="590" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="AI-R3-s" parent="AI-R3" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=3, русская" vertex="1">
+          <mxGeometry height="25" width="160" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="AI-R7" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=12;startSize=25;" value="Гуляш" vertex="1">
+          <mxGeometry height="50" width="160" x="590" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="AI-R7-s" parent="AI-R7" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=7, венгерская" vertex="1">
+          <mxGeometry height="25" width="160" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="AI-R8" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=12;startSize=25;" value="Омлет французский" vertex="1">
+          <mxGeometry height="50" width="160" x="590" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="AI-R8-s" parent="AI-R8" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=8, французская" vertex="1">
+          <mxGeometry height="25" width="160" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="AI-R10" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=12;startSize=25;" value="Крем-брюле" vertex="1">
+          <mxGeometry height="50" width="160" x="590" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="AI-R10-s" parent="AI-R10" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=10, французская" vertex="1">
+          <mxGeometry height="25" width="160" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="E-T1-R1" edge="1" parent="1" source="AI-T1" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;" target="AI-R1" value="[AppliedIn]&#xa;step=1, dur=60мин, t=100°C&#xa;Варить говядину">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E-T2-R2" edge="1" parent="1" source="AI-T2" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;" target="AI-R2" value="[AppliedIn]&#xa;step=2, dur=20мин, t=170°C&#xa;Жарить по 3 мин">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E-T3-R7" edge="1" parent="1" source="AI-T3" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;" target="AI-R7" value="[AppliedIn]&#xa;step=1, dur=90мин, t=95°C&#xa;Тушить с паприкой">
+          <mxGeometry relative="1" x="-0.2432" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E-T4-R10" edge="1" parent="1" source="AI-T4" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;" target="AI-R10" value="[AppliedIn]&#xa;step=2, dur=40мин, t=160°C&#xa;Водяная баня">
+          <mxGeometry relative="1" x="-0.3587" y="-5" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E-T6-R3" edge="1" parent="1" source="AI-T6" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;" target="AI-R3" value="[AppliedIn]&#xa;step=1, dur=15мин&#xa;Замесить тесто">
+          <mxGeometry relative="1" x="-0.3281" as="geometry">
+            <mxPoint x="1" as="offset" />
+            <Array as="points">
+              <mxPoint x="640" y="505" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E-T8-R10" edge="1" parent="1" source="AI-T8" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;" target="AI-R10" value="[AppliedIn]&#xa;step=3, dur=5мин&#xa;Карамель горелкой">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E-T9-R8" edge="1" parent="1" source="AI-T9" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;" target="AI-R8" value="[AppliedIn]&#xa;step=1, dur=3мин&#xa;Взбить яйца">
+          <mxGeometry relative="1" x="-0.3388" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="620" y="705" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E-T10-R3" edge="1" parent="1" source="AI-T10" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;" target="AI-R3" value="[AppliedIn]&#xa;step=2, dur=30мин&#xa;Лепить пельмени">
+          <mxGeometry relative="1" x="-0.5821" y="5" as="geometry">
+            <mxPoint x="1" as="offset" />
+            <Array as="points">
+              <mxPoint x="720" y="805" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LEG-AI" parent="1" style="swimlane;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;fontSize=13;startSize=30;" value="Легенда:" vertex="1">
+          <mxGeometry height="65" width="340" x="40" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="LEG-AI1" parent="LEG-AI" style="text;fontSize=12;align=left;spacingLeft=8;" value="→  [AppliedIn]: Техника применяется в рецепте" vertex="1">
+          <mxGeometry height="25" width="340" y="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="canReplace" id="CUL-canReplace-007">
+    <mxGraphModel dx="1471" dy="939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <!-- Ingredient nodes -->
+        <mxCell id="CR-I8" parent="1" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=12;startSize=25;" value="Молоко" vertex="1">
+          <mxGeometry height="50" width="170" x="40" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CR-I8-s" parent="CR-I8" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=8, молочное" vertex="1">
+          <mxGeometry height="25" width="170" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="CR-I16" parent="1" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=12;startSize=25;" value="Кефир" vertex="1">
+          <mxGeometry height="50" width="170" x="590" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CR-I16-s" parent="CR-I16" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=16, молочное" vertex="1">
+          <mxGeometry height="25" width="170" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="CR-I9" parent="1" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=12;startSize=25;" value="Сметана" vertex="1">
+          <mxGeometry height="50" width="170" x="40" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="CR-I9-s" parent="CR-I9" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=9, молочное" vertex="1">
+          <mxGeometry height="25" width="170" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="CR-I18" parent="1" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=12;startSize=25;" value="Жирные сливки 33%" vertex="1">
+          <mxGeometry height="50" width="170" x="590" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="CR-I18-s" parent="CR-I18" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=18, молочное" vertex="1">
+          <mxGeometry height="25" width="170" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="CR-I3" parent="1" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=12;startSize=25;" value="Говядина" vertex="1">
+          <mxGeometry height="50" width="170" x="40" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="CR-I3-s" parent="CR-I3" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=3, мясо" vertex="1">
+          <mxGeometry height="25" width="170" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="CR-I4" parent="1" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=12;startSize=25;" value="Свинина" vertex="1">
+          <mxGeometry height="50" width="170" x="590" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="CR-I4-s" parent="CR-I4" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=4, мясо" vertex="1">
+          <mxGeometry height="25" width="170" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="CR-I5" parent="1" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=12;startSize=25;" value="Куриный фарш" vertex="1">
+          <mxGeometry height="50" width="170" x="40" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="CR-I5-s" parent="CR-I5" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=5, мясо" vertex="1">
+          <mxGeometry height="25" width="170" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="CR-I20" parent="1" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=12;startSize=25;" value="Фарш говяжий" vertex="1">
+          <mxGeometry height="50" width="170" x="590" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="CR-I20-s" parent="CR-I20" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=20, мясо" vertex="1">
+          <mxGeometry height="25" width="170" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="CR-I14" parent="1" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=12;startSize=25;" value="Томатная паста" vertex="1">
+          <mxGeometry height="50" width="170" x="40" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="CR-I14-s" parent="CR-I14" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=14, овощ" vertex="1">
+          <mxGeometry height="25" width="170" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="CR-I1" parent="1" style="swimlane;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=12;startSize=25;" value="Свёкла" vertex="1">
+          <mxGeometry height="50" width="170" x="590" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="CR-I1-s" parent="CR-I1" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=1, овощ" vertex="1">
+          <mxGeometry height="25" width="170" y="25" as="geometry" />
+        </mxCell>
+        <!-- Edges: CanReplace (Ingredient -> Ingredient) -->
+        <mxCell id="E-I8-I16" parent="1" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;strokeColor=#82b366;fontColor=#006600;" value="[CanReplace]&#xa;quality_loss=минимальная&#xa;ratio=1:1&#xa;2024-01-10" edge="1" source="CR-I8" target="CR-I16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E-I16-I8" parent="1" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;strokeColor=#d6b656;fontColor=#997700;" value="[CanReplace]&#xa;quality_loss=умеренная&#xa;ratio=1:1&#xa;2024-01-10" edge="1" source="CR-I16" target="CR-I8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E-I9-I18" parent="1" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;strokeColor=#d6b656;fontColor=#997700;" value="[CanReplace]&#xa;quality_loss=умеренная&#xa;ratio=1:0.8&#xa;2024-02-15" edge="1" source="CR-I9" target="CR-I18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E-I18-I8" parent="1" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;strokeColor=#d6b656;fontColor=#997700;" value="[CanReplace]&#xa;quality_loss=умеренная&#xa;ratio=1:1&#xa;2024-01-20" edge="1" source="CR-I18" target="CR-I8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E-I3-I4" parent="1" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;strokeColor=#82b366;fontColor=#006600;" value="[CanReplace]&#xa;quality_loss=минимальная&#xa;ratio=1:1&#xa;2023-11-05" edge="1" source="CR-I3" target="CR-I4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E-I4-I3" parent="1" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;strokeColor=#82b366;fontColor=#006600;" value="[CanReplace]&#xa;quality_loss=минимальная&#xa;ratio=1:1&#xa;2023-11-05" edge="1" source="CR-I4" target="CR-I3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E-I5-I20" parent="1" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;strokeColor=#d6b656;fontColor=#997700;" value="[CanReplace]&#xa;quality_loss=умеренная&#xa;ratio=1:1&#xa;2024-03-01" edge="1" source="CR-I5" target="CR-I20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E-I20-I5" parent="1" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;strokeColor=#d6b656;fontColor=#997700;" value="[CanReplace]&#xa;quality_loss=умеренная&#xa;ratio=1:1&#xa;2024-03-01" edge="1" source="CR-I20" target="CR-I5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E-I14-I1" parent="1" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;strokeColor=#82b366;fontColor=#006600;" value="[CanReplace]&#xa;quality_loss=минимальная&#xa;ratio=50г→100г свёклы&#xa;2024-03-10" edge="1" source="CR-I14" target="CR-I1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <!-- Legend -->
+        <mxCell id="LEG-CR" parent="1" style="swimlane;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;fontSize=13;startSize=30;" value="Легенда:" vertex="1">
+          <mxGeometry height="115" width="340" x="40" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="LEG-CR1" parent="LEG-CR" style="text;fontSize=12;align=left;spacingLeft=8;" value="→  A → B : «Ингредиент A можно заменить на B»" vertex="1">
+          <mxGeometry height="25" width="340" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LEG-CR2" parent="LEG-CR" style="text;fontSize=12;align=left;spacingLeft=8;" value="— зелёный: минимальная потеря качества" vertex="1">
+          <mxGeometry height="25" width="340" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="LEG-CR3" parent="LEG-CR" style="text;fontSize=12;align=left;spacingLeft=8;" value="— жёлтый: умеренная / значительная потеря" vertex="1">
+          <mxGeometry height="25" width="340" y="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="usedBy" id="CUL-usedBy-008">
+    <mxGraphModel dx="1572" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UB-R1" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=12;startSize=25;" value="Борщ" vertex="1">
+          <mxGeometry height="50" width="150" x="40" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UB-R1-s" parent="UB-R1" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=1, белорусская" vertex="1">
+          <mxGeometry height="25" width="150" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="UB-R2" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=12;startSize=25;" value="Драники" vertex="1">
+          <mxGeometry height="50" width="150" x="40" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="UB-R2-s" parent="UB-R2" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=2, белорусская" vertex="1">
+          <mxGeometry height="25" width="150" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="UB-R6" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=12;startSize=25;" value="Мачанка с блинами" vertex="1">
+          <mxGeometry height="50" width="150" x="40" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="UB-R6-s" parent="UB-R6" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=6, белорусская" vertex="1">
+          <mxGeometry height="25" width="150" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="UB-R7" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=12;startSize=25;" value="Гуляш" vertex="1">
+          <mxGeometry height="50" width="150" x="40" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="UB-R7-s" parent="UB-R7" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=7, венгерская" vertex="1">
+          <mxGeometry height="25" width="150" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="UB-R10" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=12;startSize=25;" value="Крем-брюле" vertex="1">
+          <mxGeometry height="50" width="150" x="40" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="UB-R10-s" parent="UB-R10" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=10, французская" vertex="1">
+          <mxGeometry height="25" width="150" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="UB-R11" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=12;startSize=25;" value="Спагетти болоньезе" vertex="1">
+          <mxGeometry height="50" width="150" x="40" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="UB-R11-s" parent="UB-R11" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=11, итальянская" vertex="1">
+          <mxGeometry height="25" width="150" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="UB-R12" parent="1" style="swimlane;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontSize=12;startSize=25;" value="Блины" vertex="1">
+          <mxGeometry height="50" width="150" x="40" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="UB-R12-s" parent="UB-R12" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=12, русская" vertex="1">
+          <mxGeometry height="25" width="150" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="UB-C1" parent="1" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=12;startSize=25;" value="Алексей Дудченко" vertex="1">
+          <mxGeometry height="50" width="180" x="590" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UB-C1-s" parent="UB-C1" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=1, Беларусь, профессионал" vertex="1">
+          <mxGeometry height="25" width="180" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="UB-C2" parent="1" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=12;startSize=25;" value="Татьяна Маслова" vertex="1">
+          <mxGeometry height="50" width="180" x="590" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="UB-C2-s" parent="UB-C2" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=2, Россия, мастер ⭐1" vertex="1">
+          <mxGeometry height="25" width="180" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="UB-C4" parent="1" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=12;startSize=25;" value="Людмила Ковалёва" vertex="1">
+          <mxGeometry height="50" width="180" x="590" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="UB-C4-s" parent="UB-C4" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=4, Беларусь, домашний" vertex="1">
+          <mxGeometry height="25" width="180" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="UB-C5" parent="1" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=12;startSize=25;" value="Жан-Пьер Дюбуа" vertex="1">
+          <mxGeometry height="50" width="180" x="590" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="UB-C5-s" parent="UB-C5" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=5, Франция, мастер ⭐2" vertex="1">
+          <mxGeometry height="25" width="180" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="UB-C6" parent="1" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=12;startSize=25;" value="Андраш Варга" vertex="1">
+          <mxGeometry height="50" width="180" x="590" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="UB-C6-s" parent="UB-C6" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=6, Венгрия, профессионал" vertex="1">
+          <mxGeometry height="25" width="180" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="UB-C7" parent="1" style="swimlane;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;fontSize=12;startSize=25;" value="Марко Феррари" vertex="1">
+          <mxGeometry height="50" width="180" x="590" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="UB-C7-s" parent="UB-C7" style="text;fontSize=11;align=left;spacingLeft=8;" value="id=7, Италия, мастер ⭐1" vertex="1">
+          <mxGeometry height="25" width="180" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="E-R1-C1" edge="1" parent="1" source="UB-R1" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;strokeColor=#9933cc;fontColor=#330066;" target="UB-C1" value="[UsedBy]&#xa;since=2005, ★ фирменное&#xa;rating=9.5">
+          <mxGeometry relative="1" x="-0.55" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E-R1-C2" edge="1" parent="1" source="UB-R1" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;strokeColor=#333333;" target="UB-C2" value="[UsedBy]&#xa;since=2000&#xa;rating=9.0">
+          <mxGeometry relative="1" x="0.0975" y="-5" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E-R2-C4" edge="1" parent="1" source="UB-R2" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;strokeColor=#9933cc;fontColor=#330066;" target="UB-C4" value="[UsedBy]&#xa;since=2010, ★ фирменное&#xa;rating=9.2">
+          <mxGeometry relative="1" x="-0.2919" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E-R6-C1" edge="1" parent="1" source="UB-R6" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;strokeColor=#9933cc;fontColor=#330066;" target="UB-C1" value="[UsedBy]&#xa;since=2007, ★ фирменное&#xa;rating=9.7">
+          <mxGeometry relative="1" x="-0.3958" as="geometry">
+            <mxPoint x="1" as="offset" />
+            <Array as="points">
+              <mxPoint x="710" y="305" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E-R7-C6" edge="1" parent="1" source="UB-R7" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;strokeColor=#9933cc;fontColor=#330066;" target="UB-C6" value="[UsedBy]&#xa;since=2003, ★ фирменное&#xa;rating=9.4">
+          <mxGeometry relative="1" x="-0.2919" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E-R10-C5" edge="1" parent="1" source="UB-R10" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;strokeColor=#9933cc;fontColor=#330066;" target="UB-C5" value="[UsedBy]&#xa;since=1990, ★ фирменное&#xa;rating=9.8">
+          <mxGeometry relative="1" x="-0.3059" y="-5" as="geometry">
+            <mxPoint x="1" as="offset" />
+            <Array as="points">
+              <mxPoint x="720" y="505" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E-R11-C7" edge="1" parent="1" source="UB-R11" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;strokeColor=#9933cc;fontColor=#330066;" target="UB-C7" value="[UsedBy]&#xa;since=2001, ★ фирменное&#xa;rating=9.6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E-R12-C2" edge="1" parent="1" source="UB-R12" style="edgeStyle=orthogonalEdgeStyle;fontSize=10;strokeColor=#9933cc;fontColor=#330066;" target="UB-C2" value="[UsedBy]&#xa;since=1998, ★ фирменное&#xa;rating=9.2">
+          <mxGeometry relative="1" x="-0.6136" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="750" y="705" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LEG-UB" parent="1" style="swimlane;fillColor=#f5f5f5;strokeColor=#666666;fontStyle=1;fontSize=13;startSize=30;" value="Легенда:" vertex="1">
+          <mxGeometry height="90" width="340" x="40" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="LEG-UB1" parent="LEG-UB" style="text;fontSize=12;align=left;spacingLeft=8;" value="→  [UsedBy]: Рецепт используется поваром" vertex="1">
+          <mxGeometry height="25" width="340" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LEG-UB2" parent="LEG-UB" style="text;fontSize=12;align=left;spacingLeft=8;" value="— фиолетовый (★): фирменное блюдо" vertex="1">
+          <mxGeometry height="25" width="340" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="LEG-UB3" parent="LEG-UB" style="text;fontSize=12;align=left;spacingLeft=8;" value="— чёрный: обычное использование" vertex="1">
+          <mxGeometry height="25" width="340" y="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
